@@ -97,16 +97,16 @@ export const TopBar = () => {
                 গ্যালারি
               </Link>
               <Link
-                href="/team"
-                className="text-gray-800 text-sm font-semibold hover:text-blue-400 hover:scale-105 duration-700 mb-1"
-              >
-                সদস্যদের তালিকা
-              </Link>
-              <Link
                 href="/donation"
                 className="text-gray-800 text-sm font-semibold hover:text-blue-400 hover:scale-105 duration-700 mb-1"
               >
                 অনুদান
+              </Link>
+              <Link
+                href="/team"
+                className="text-gray-800 text-sm font-semibold hover:text-blue-400 hover:scale-105 duration-700 mb-1"
+              >
+                সদস্যদের তালিকা
               </Link>
 
               <div className="flex justify-end items-center border-t-2 pt-2">

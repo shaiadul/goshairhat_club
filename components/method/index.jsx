@@ -17,11 +17,11 @@ const Method = () => {
                 বিকাশ দিয়ে অনুদান দিন
               </h2>
               <p class="leading-relaxed text-xl font-bold text-blue-400">
-                বিকাশ নাম্বারঃ ০১৭১১১১১১১১২
+                বিকাশ নাম্বারঃ ০১৭XXXXXXXX
               </p>
             </div>
           </div>
-          <div class="flex flex-wrap -mx-2">
+          <div class="flex flex-wrap -mx-2 gap-y-5">
             <div class="px-2 w-full md:w-1/2">
               <div class="flex flex-wrap w-full bg-gray-50 sm:py-24 py-16 sm:px-10 px-6 relative">
                 <img
@@ -34,7 +34,7 @@ const Method = () => {
                     নগদ দিয়ে অনুদান দিন
                   </h2>
                   <p class="leading-relaxed text-xl font-bold text-blue-400">
-                    নগদ নাম্বারঃ ০১৭১১১১১১১১২
+                    নগদ নাম্বারঃ ০১৭XXXXXXXX
                   </p>
                 </div>
               </div>
@@ -51,7 +51,7 @@ const Method = () => {
                     রকেট দিয়ে অনুদান দিন
                   </h2>
                   <p class="leading-relaxed text-xl font-bold text-blue-400">
-                    রকেট নাম্বারঃ ০১৭১১১১১১১১২
+                    রকেট নাম্বারঃ ০১৭XXXXXXXX
                   </p>
                 </div>
               </div>

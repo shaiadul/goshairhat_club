@@ -7,7 +7,7 @@ export const Banner = () => {
       <img
         src="https://m.media-amazon.com/images/I/71rvaUfzByL._AC_SL1500_.jpg"
         alt="banner"
-        className="w-80 h-80 object-cover absolute top-16 left-10 md:top-20 md:left-1/2 animate-bounce animate-spin duration-700 -z-10"
+        className="w-64 h-64 md:w-80 md:h-80 object-cover absolute top-[50%] left-[20%] md:top-20 md:left-1/2 animate-bounce duration-1000 -z-10"
       />
       <div className="container mx-auto flex flex-col items-center px-5 py-16 text-center md:py-32 md:px-10 lg:px-32 xl:max-w-5xl ">
         <span className="text-teal-400 text-3xl md:text-4xl font-bold mt-20">

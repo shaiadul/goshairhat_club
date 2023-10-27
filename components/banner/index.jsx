@@ -1,3 +1,4 @@
+import Link from "next/link";
 import React from "react";
 
 export const Banner = () => {
@@ -11,12 +12,12 @@ export const Banner = () => {
         চ্যাম্পিয়ন তারা নয় যারা একবার খেলার মাঠে জয়ী হয়েই থেমে যায়। বরং তারাই প্রকৃত চ্যাম্পিয়ন যারা হারের পর হার সহ্য করে শুধুমাত্র খেলায় জেতার জন্য
         </p>
         <div className="flex flex-wrap justify-center">
-          <button className="px-8 py-3 m-2 text-sm md:text-lg font-semibold rounded bg-teal-400 text-white hover:opacity-80 duration-700">
+          <Link href="/donation" className="px-8 py-3 m-2 text-sm md:text-lg font-semibold rounded bg-teal-400 text-white hover:opacity-80 duration-700">
             Donation
-          </button>
-          <button className="px-8 py-3 m-2 text-sm md:text-lg font-semibold border-2 rounded text-teal-400 hover:text-white border-teal-400 hover:bg-teal-400 duration-700">
+          </Link>
+          <Link href="/hireplayer" className="px-8 py-3 m-2 text-sm md:text-lg font-semibold border-2 rounded text-teal-400 hover:text-white border-teal-400 hover:bg-teal-400 duration-700">
             Hire Player
-          </button>
+          </Link>
         </div>
       </div>
     </section>

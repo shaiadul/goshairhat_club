@@ -6,7 +6,7 @@ const Footer = () => {
     <footer class="text-gray-600 body-font">
       <div class="container px-5 py-8 mx-auto flex items-center sm:flex-row flex-col">
         <Image
-          src="https://th.bing.com/th/id/R.43d1b4a81d650d06d9bed42f01f251a4?rik=UPp083aFMchfLA&pid=ImgRaw&r=0"
+          src="https://i.ibb.co/jVGV79r/logo.png"
           alt="logo"
           width={500}
           height={500}

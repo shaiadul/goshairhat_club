@@ -19,7 +19,7 @@ export const TopBar = () => {
             <div>
               <Link href="/">
                 <Image
-                  src="https://th.bing.com/th/id/R.43d1b4a81d650d06d9bed42f01f251a4?rik=UPp083aFMchfLA&pid=ImgRaw&r=0"
+                  src="https://i.ibb.co/jVGV79r/logo.png"
                   alt="logo"
                   width={500}
                   height={500}

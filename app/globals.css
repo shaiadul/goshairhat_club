@@ -3,12 +3,10 @@
 @tailwind utilities;
 
 .banner_container {
-  background-image: url("https://i.ibb.co/NncDm9w/banner.jpg");
+  background-image: url("https://m.media-amazon.com/images/I/71rvaUfzByL._AC_SL1500_.jpg");
   background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center;
+  background-size: contain;
+  background-position: left;
   width: 100%;
   height: 100%;
 }
-
-/* <a href="https://ibb.co/5YvYqXR"><img src="https://i.ibb.co/jVGV79r/logo.png" alt="logo" border="0"></a> */

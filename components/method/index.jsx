@@ -16,7 +16,7 @@ const Method = () => {
               <h2 class="text-xl text-gray-600 font-medium title-font mb-2">
                 বিকাশ দিয়ে অনুদান দিন
               </h2>
-              <p class="leading-relaxed text-xl font-bold text-blue-600">
+              <p class="leading-relaxed text-xl font-bold text-blue-400">
                 বিকাশ নাম্বারঃ ০১৭১১১১১১১১২
               </p>
             </div>
@@ -33,7 +33,7 @@ const Method = () => {
                   <h2 class="text-xl text-gray-600 font-medium title-font mb-2">
                     নগদ দিয়ে অনুদান দিন
                   </h2>
-                  <p class="leading-relaxed text-xl font-bold text-blue-600">
+                  <p class="leading-relaxed text-xl font-bold text-blue-400">
                     নগদ নাম্বারঃ ০১৭১১১১১১১১২
                   </p>
                 </div>
@@ -50,7 +50,7 @@ const Method = () => {
                   <h2 class="text-xl text-gray-600 font-medium title-font mb-2">
                     রকেট দিয়ে অনুদান দিন
                   </h2>
-                  <p class="leading-relaxed text-xl font-bold text-blue-600">
+                  <p class="leading-relaxed text-xl font-bold text-blue-400">
                     রকেট নাম্বারঃ ০১৭১১১১১১১১২
                   </p>
                 </div>

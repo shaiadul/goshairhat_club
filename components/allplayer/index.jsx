@@ -33,7 +33,7 @@ const AllPlayer = ({ player }) => {
             />
           </div>
           <a href="#">
-            <h3 class="font-bold text-lg text-blue-600">{name}</h3>
+            <h3 class="font-bold text-lg text-blue-400">{name}</h3>
           </a>
           <p class="font-semibold text-xs text-gray-600 py-2">{description}</p>
 

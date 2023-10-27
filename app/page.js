@@ -5,6 +5,7 @@ import Latter from "@/components/spech/index.jsx";
 import Inspector from "@/components/inspector/index.jsx";
 import Members from "@/components/members/index.jsx";
 import Action from "@/components/action/index.jsx";
+import Mass from "@/components/mass/index.jsx";
 
 export default function Home() {
   return (
@@ -15,6 +16,7 @@ export default function Home() {
       <Latter/>
       <Inspector/>
       <Members/>
+      <Mass />
       <Action/>
     </section>
   );

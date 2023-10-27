@@ -31,33 +31,27 @@ export const TopBar = () => {
             <div className="hidden sm:flex sm:items-center">
               <Link
                 href="/"
-                className="text-gray-600 text-lg font-semibold hover:text-teal-600 mr-4"
+                className="text-gray-600 text-lg font-semibold hover:text-teal-600 hover:scale-110 duration-700 mr-4"
               >
-                Home
+               হোম মেনু
               </Link>
               <Link
                 href="/gallery"
-                className="text-gray-600 text-lg font-semibold hover:text-teal-600 mr-4"
+                className="text-gray-600 text-lg font-semibold hover:text-teal-600 hover:scale-110 duration-700 mr-4"
               >
-                Gallery
-              </Link>
-              <Link
-                href="/event"
-                className="text-gray-600 text-lg font-semibold hover:text-teal-600 mr-4"
-              >
-                Events
+                গ্যালারি
               </Link>
               <Link
                 href="/team"
-                className="text-gray-600 text-lg font-semibold hover:text-teal-600 mr-4"
+                className="text-gray-600 text-lg font-semibold hover:text-teal-600 hover:scale-110 duration-700 mr-4"
               >
-                Members
+                সদস্যদের তালিকা
               </Link>
               <Link
                 href="/donation"
-                className="text-gray-600 text-lg font-semibold hover:text-teal-600 mr-4"
+                className="text-gray-600 text-lg font-semibold hover:text-teal-600 hover:scale-110 duration-700 mr-4"
               >
-                Donation
+                অনুদান
               </Link>
             </div>
 
@@ -93,33 +87,27 @@ export const TopBar = () => {
             <div className="flex flex-col">
               <Link
                 href="/"
-                className="text-gray-800 text-sm font-semibold hover:text-teal-600 mb-1"
+                className="text-gray-800 text-sm font-semibold hover:text-teal-600 hover:scale-105duration-700 mb-1"
               >
-                Home
+                হোম মেনু
               </Link>
               <Link
                 href="/gallery"
-                className="text-gray-800 text-sm font-semibold hover:text-teal-600 mb-1"
+                className="text-gray-800 text-sm font-semibold hover:text-teal-600 hover:scale-105 duration-700 mb-1"
               >
-                Gallery
-              </Link>
-              <Link
-                href="/event"
-                className="text-gray-800 text-sm font-semibold hover:text-teal-600 mb-1"
-              >
-                Events
+                গ্যালারি
               </Link>
               <Link
                 href="/team"
-                className="text-gray-800 text-sm font-semibold hover:text-teal-600 mb-1"
+                className="text-gray-800 text-sm font-semibold hover:text-teal-600 hover:scale-105 duration-700 mb-1"
               >
-                Members
+                সদস্যদের তালিকা
               </Link>
               <Link
                 href="/donation"
-                className="text-gray-800 text-sm font-semibold hover:text-teal-600 mb-1"
+                className="text-gray-800 text-sm font-semibold hover:text-teal-600 hover:scale-105 duration-700 mb-1"
               >
-                Donation
+                অনুদান
               </Link>
 
               <div className="flex justify-end items-center border-t-2 pt-2">

@@ -4,7 +4,7 @@ const DemoHelp = () => {
   return (
     <section>
       <div class="container mx-auto p-4">
-        <h1 class="text-4xl font-bold text-center text-teal-600 my-4">
+        <h1 class="text-3xl font-bold text-center text-teal-600 my-4">
           সহায়তা আপনার ক্ষুদ্র ক্ষুদ্র পরিদর্শককেও মহান করতে পারে
         </h1>
         <div class="text-center text-gray-600 my-4">

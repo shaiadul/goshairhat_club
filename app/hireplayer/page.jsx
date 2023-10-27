@@ -46,7 +46,7 @@ const HirePlayer = () => {
   return (
     <section className="container mx-auto px-5 my-10">
       <div className="mb-10">
-        <h2 className="text-3xl font-bold text-teal-800">
+        <h2 className="text-3xl font-bold text-blue-800">
           আমাদের দলের সদস্যদের তালিকা
         </h2>
         <p className="text-gray-600 text-sm">

@@ -29,7 +29,7 @@ const Latter = () => {
               <path d="M232,16H193.6L16,185.143V416H232ZM200,384H48V198.857L200,54.1Z"></path>
             </svg>
           </div>
-          <span className="w-12 h-1 my-2 rounded-lg dark:bg-teal-400"></span>
+          <span className="w-12 h-1 my-2 rounded-lg dark:bg-blue-400"></span>
           <p>( সাকিব আল হাসান )</p>
         </div>
         <div className="flex flex-col items-center max-w-lg mx-12 lg:mx-0">
@@ -49,7 +49,7 @@ const Latter = () => {
               ></path>
             </svg>
             <p className="px-6 py-1 text-lg italic">
-               পা দিয়ে ফুটবল খেলা এক বিষয় আর হৃদয় দিয়ে ফুটবল খেলা অন্য বিষয়।
+              পা দিয়ে ফুটবল খেলা এক বিষয় আর হৃদয় দিয়ে ফুটবল খেলা অন্য বিষয়।
             </p>
             <svg
               xmlns="http://www.w3.org/2000/svg"
@@ -66,7 +66,7 @@ const Latter = () => {
               ></path>
             </svg>
           </div>
-          <span className="w-12 h-1 my-2 rounded-lg dark:bg-teal-400"></span>
+          <span className="w-12 h-1 my-2 rounded-lg dark:bg-blue-400"></span>
           <p>( লিওনেল মেসি )</p>
         </div>
       </div>

@@ -15,7 +15,7 @@ const Inspector = () => {
                 class="h-40 rounded w-full object-cover object-center mb-6"
                 src="https://i.ibb.co/gT9nNVj/idilpurn.jpg"
               />
-              <h3 class="tracking-widest text-teal-500 text-xs font-medium title-font">
+              <h3 class="tracking-widest text-blue-500 text-xs font-medium title-font">
                 চ্যাম্পিয়নস ট্রফি
               </h3>
               <h2 class="text-lg text-gray-900 font-medium title-font mb-4">
@@ -36,7 +36,7 @@ const Inspector = () => {
                 class="h-40 rounded w-full object-cover object-center mb-6"
                 src="https://i.ibb.co/rdHPQZD/idilpur.jpg"
               />
-              <h3 class="tracking-widest text-teal-500 text-xs font-medium title-font">
+              <h3 class="tracking-widest text-blue-500 text-xs font-medium title-font">
                 চ্যাম্পিয়নস ট্রফি
               </h3>
               <h2 class="text-lg text-gray-900 font-medium title-font mb-4">
@@ -57,7 +57,7 @@ const Inspector = () => {
                 class="h-40 rounded w-full object-cover object-center mb-6"
                 src="https://i.ibb.co/8sFV5mm/393644168-921053666030778-8325490172719026711-n.jpg"
               />
-              <h3 class="tracking-widest text-teal-500 text-xs font-medium title-font">
+              <h3 class="tracking-widest text-blue-500 text-xs font-medium title-font">
                 চ্যাম্পিয়নস ট্রফি
               </h3>
               <h2 class="text-lg text-gray-900 font-medium title-font mb-4">
@@ -78,7 +78,7 @@ const Inspector = () => {
                 class="h-40 rounded w-full object-cover object-center mb-6"
                 src="https://i.ibb.co/rdHPQZD/idilpur.jpg"
               />
-              <h3 class="tracking-widest text-teal-500 text-xs font-medium title-font">
+              <h3 class="tracking-widest text-blue-500 text-xs font-medium title-font">
                 চ্যাম্পিয়নস ট্রফি
               </h3>
               <h2 class="text-lg text-gray-900 font-medium title-font mb-4">

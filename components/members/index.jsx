@@ -8,7 +8,7 @@ const Members = () => {
         <p className="p-2 text-sm font-medium tracki text-center uppercase">
           ক্লাব পরিচালকগণ
         </p>
-        <h1 className="text-2xl text-teal-400 font-bold text-center sm:text-3xl">
+        <h1 className="text-2xl text-blue-400 font-bold text-center sm:text-3xl">
           সার্বিক পরিচালক ও প্রশিক্ষক সদস্য
         </h1>
         <div className="flex flex-row flex-wrap-reverse justify-center mt-8">

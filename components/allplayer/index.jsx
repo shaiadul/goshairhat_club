@@ -33,7 +33,7 @@ const AllPlayer = ({ player }) => {
             />
           </div>
           <a href="#">
-            <h3 class="font-bold text-lg text-teal-600">{name}</h3>
+            <h3 class="font-bold text-lg text-blue-600">{name}</h3>
           </a>
           <p class="font-semibold text-xs text-gray-600 py-2">{description}</p>
 
@@ -52,7 +52,7 @@ const AllPlayer = ({ player }) => {
         <div class="sm:flex sm:items-end sm:justify-end">
           <a
             href={hireLink}
-            class="block bg-teal-300 px-5 py-3 text-center text-xs font-bold uppercase text-gray-900 transition hover:bg-teal-400"
+            class="block bg-blue-300 px-5 py-3 text-center text-xs font-bold uppercase text-gray-900 transition hover:bg-blue-400"
           >
             Hire me
           </a>

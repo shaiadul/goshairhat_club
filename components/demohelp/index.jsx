@@ -4,7 +4,7 @@ const DemoHelp = () => {
   return (
     <section>
       <div class="container mx-auto p-4">
-        <h1 class="text-3xl font-bold text-center text-teal-600 my-4">
+        <h1 class="text-3xl font-bold text-center text-blue-600 my-4">
           সহায়তা আপনার ক্ষুদ্র ক্ষুদ্র পরিদর্শককেও মহান করতে পারে
         </h1>
         <div class="text-center text-gray-600 my-4">
@@ -16,14 +16,14 @@ const DemoHelp = () => {
             অন্যদের জীবনে আনন্দ এবং প্রশান্তি প্রদান করতে পারেন।
           </p>
         </div>
-        <h2 class="text-2xl font-bold text-teal-600 my-4">আমাদের লক্ষ্য</h2>
+        <h2 class="text-2xl font-bold text-blue-600 my-4">আমাদের লক্ষ্য</h2>
         <div class="text-gray-600 my-4">
           <p>
             আমাদের এই প্রচেষ্টায় লক্ষ্য করা হয়েছে একটি ভবিষ্যত নির্মাণ করা,
             যেখানে সকল মানুষ সমান অধিকারের সাথে জীবনযাপন করতে পারে।
           </p>
         </div>
-        <h2 class="text-2xl font-bold text-teal-600 my-4">
+        <h2 class="text-2xl font-bold text-blue-600 my-4">
           আপনার সাহায্যের জন্য আমরা চাইতেছি
         </h2>
         <ul class="list-disc list-inside text-gray-600 my-4">
@@ -37,7 +37,7 @@ const DemoHelp = () => {
             পারেন যাতে সকল মানুষ প্রবীণ হতে পারে।
           </li>
         </ul>
-        <h2 class="text-2xl font-bold text-teal-600 my-4">
+        <h2 class="text-2xl font-bold text-blue-600 my-4">
           কিভাবে সাহায্য করতে পারেন
         </h2>
         <div class="text-gray-600 my-4">
@@ -48,7 +48,7 @@ const DemoHelp = () => {
             <li>শিক্ষাগত সাহায্য করে।</li>
           </ul>
         </div>
-        <h2 class="text-2xl font-bold text-teal-600 my-4">
+        <h2 class="text-2xl font-bold text-blue-600 my-4">
           আপনার সাহায্য আমাদের জন্য গুরুত্বপূর্ণ
         </h2>
         <div class="text-gray-600 my-4">
@@ -59,7 +59,7 @@ const DemoHelp = () => {
             সাহায্য প্রয়োজন পেশেন্ট হয়েছে।
           </p>
         </div>
-        <h2 class="text-2xl font-bold text-teal-600 my-4">যোগাযোগ করুন</h2>
+        <h2 class="text-2xl font-bold text-blue-600 my-4">যোগাযোগ করুন</h2>
         <div class="text-gray-600 my-4">
           <p>আমাদের প্রয়াসে আপনার যোগাযোগ এবং সাহায্য ০১৭৪০৪৪০৪৬৪</p>
         </div>

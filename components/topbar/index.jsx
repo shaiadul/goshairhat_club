@@ -4,7 +4,6 @@ import Link from "next/link";
 import React, { useState } from "react";
 
 export const TopBar = () => {
-
   const [isActive, setIsActive] = useState(false);
 
   const toggleState = () => {
@@ -31,25 +30,25 @@ export const TopBar = () => {
             <div className="hidden sm:flex sm:items-center">
               <Link
                 href="/"
-                className="text-gray-600 text-lg font-semibold hover:text-teal-600 hover:scale-110 duration-700 mr-4"
+                className="text-gray-600 text-lg font-semibold hover:text-blue-600 hover:scale-110 duration-700 mr-4"
               >
-               হোম মেনু
+                হোম মেনু
               </Link>
               <Link
                 href="/gallery"
-                className="text-gray-600 text-lg font-semibold hover:text-teal-600 hover:scale-110 duration-700 mr-4"
+                className="text-gray-600 text-lg font-semibold hover:text-blue-600 hover:scale-110 duration-700 mr-4"
               >
                 গ্যালারি
               </Link>
               <Link
                 href="/team"
-                className="text-gray-600 text-lg font-semibold hover:text-teal-600 hover:scale-110 duration-700 mr-4"
+                className="text-gray-600 text-lg font-semibold hover:text-blue-600 hover:scale-110 duration-700 mr-4"
               >
                 সদস্যদের তালিকা
               </Link>
               <Link
                 href="/donation"
-                className="text-gray-600 text-lg font-semibold hover:text-teal-600 hover:scale-110 duration-700 mr-4"
+                className="text-gray-600 text-lg font-semibold hover:text-blue-600 hover:scale-110 duration-700 mr-4"
               >
                 অনুদান
               </Link>
@@ -58,7 +57,7 @@ export const TopBar = () => {
             <div className="hidden sm:flex sm:items-center">
               <Link
                 href="/hireplayer"
-                className="text-gray-800 text-lg font-bold border-2 border-stone-600 hover:border-teal-600 px-3 py-1 rounded-md shadow-md hover:text-teal-600 duration-700"
+                className="text-gray-800 text-lg font-bold border-2 border-stone-600 hover:border-blue-600 px-3 py-1 rounded-md shadow-md hover:text-blue-600 duration-700"
               >
                 Hire Player
               </Link>
@@ -68,7 +67,7 @@ export const TopBar = () => {
               <svg
                 onClick={toggleState}
                 xmlns="http://www.w3.org/2000/svg"
-                className="w-6 h-6 text-teal-600"
+                className="w-6 h-6 text-blue-600"
                 viewBox="0 0 24 24"
               >
                 <path
@@ -87,25 +86,25 @@ export const TopBar = () => {
             <div className="flex flex-col">
               <Link
                 href="/"
-                className="text-gray-800 text-sm font-semibold hover:text-teal-600 hover:scale-105duration-700 mb-1"
+                className="text-gray-800 text-sm font-semibold hover:text-blue-600 hover:scale-105duration-700 mb-1"
               >
                 হোম মেনু
               </Link>
               <Link
                 href="/gallery"
-                className="text-gray-800 text-sm font-semibold hover:text-teal-600 hover:scale-105 duration-700 mb-1"
+                className="text-gray-800 text-sm font-semibold hover:text-blue-600 hover:scale-105 duration-700 mb-1"
               >
                 গ্যালারি
               </Link>
               <Link
                 href="/team"
-                className="text-gray-800 text-sm font-semibold hover:text-teal-600 hover:scale-105 duration-700 mb-1"
+                className="text-gray-800 text-sm font-semibold hover:text-blue-600 hover:scale-105 duration-700 mb-1"
               >
                 সদস্যদের তালিকা
               </Link>
               <Link
                 href="/donation"
-                className="text-gray-800 text-sm font-semibold hover:text-teal-600 hover:scale-105 duration-700 mb-1"
+                className="text-gray-800 text-sm font-semibold hover:text-blue-600 hover:scale-105 duration-700 mb-1"
               >
                 অনুদান
               </Link>
@@ -113,7 +112,7 @@ export const TopBar = () => {
               <div className="flex justify-end items-center border-t-2 pt-2">
                 <Link
                   href="/hireplayer"
-                  className="text-gray-800 text-sm font-bold border-2 border-teal-600 px-3 py-1 rounded-md shadow-md hover:text-teal-600 duration-700"
+                  className="text-gray-800 text-sm font-bold border-2 border-blue-600 px-3 py-1 rounded-md shadow-md hover:text-blue-600 duration-700"
                 >
                   Hire Player
                 </Link>

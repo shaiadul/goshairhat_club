@@ -30,12 +30,12 @@ const EventError = () => {
           ></polygon>
         </svg>
         <p className="text-3xl">
-          No Event Found <span className="text-teal-400">😢</span>
+          No Event Found <span className="text-blue-400">😢</span>
         </p>
         <a
           rel="noopener noreferrer"
           href="/"
-          className="px-8 py-3 font-semibold rounded bg-teal-300 text-gray-500 hover:opacity-90"
+          className="px-8 py-3 font-semibold rounded bg-blue-300 text-gray-500 hover:opacity-90"
         >
           Back to homepage
         </a>

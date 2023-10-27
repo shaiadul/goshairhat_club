@@ -35,7 +35,7 @@ const Chairman = () => {
                 <h2 class="font-medium title-font mt-4 text-gray-900 text-lg">
                   মো আরিফুজ্জামান উজ্জল
                 </h2>
-                <div class="w-12 h-1 bg-teal-500 rounded mt-2 mb-4"></div>
+                <div class="w-12 h-1 bg-blue-500 rounded mt-2 mb-4"></div>
                 <p class="text-base">
                   Raclette knausgaard hella meggs normcore williamsburg enamel
                   pin sartorial venmo tbh hot chicken gentrify portland.
@@ -54,7 +54,7 @@ const Chairman = () => {
                 paleo intelligentsia pabst before they sold out four loko. 3
                 wolf moon brooklyn.
               </p>
-              <a class="text-teal-500 inline-flex items-center">
+              <a class="text-blue-500 inline-flex items-center">
                 Learn More
                 <svg
                   fill="none"

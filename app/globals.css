@@ -2,15 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-/* <a href="https://ibb.co/W3gC53b"><img src="https://i.ibb.co/MhMdShY/badhon.jpg" alt="badhon" border="0"></a> */
-/* https://i.ibb.co/KzJ3CdZ/photo-1633332755192-727a05c4013d-removebg-preview.png */
-/* <a href="https://ibb.co/vQxf597"><img src="https://i.ibb.co/z7hCcdy/owner.png" alt="owner" border="0"></a> */
-/* https://i.ibb.co/NncDm9w/banner.jpg" alt="banner"*/
-/* <a href="https://ibb.co/tHnSPQv"><img src="https://i.ibb.co/PrJRzFP/banaaa.jpg" alt="banaaa" border="0"></a> */
-/* <a href="https://ibb.co/WzNRyzf"><img src="https://i.ibb.co/X5fGs5t/banner00.jpg" alt="banner00" border="0"></a> */
-/* src="https://i.ibb.co/rdHPQZD/idilpur.jpg" 
- src="https://i.ibb.co/gT9nNVj/idilpurn.jpg" */
-/* https://i.ibb.co/8sFV5mm/393644168-921053666030778-8325490172719026711-n.jpg */
 .banner_container {
   background-image: url("https://i.ibb.co/NncDm9w/banner.jpg");
   background-repeat: no-repeat;

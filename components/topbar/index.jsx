@@ -63,7 +63,7 @@ export const TopBar = () => {
 
             <div className="hidden sm:flex sm:items-center">
               <Link
-                href="/"
+                href="/hireplayer"
                 className="text-gray-800 text-lg font-bold border-2 border-stone-600 hover:border-teal-600 px-3 py-1 rounded-md shadow-md hover:text-teal-600 duration-700"
               >
                 Hire Player
@@ -124,7 +124,7 @@ export const TopBar = () => {
 
               <div className="flex justify-end items-center border-t-2 pt-2">
                 <Link
-                  href="/"
+                  href="/hireplayer"
                   className="text-gray-800 text-sm font-bold border-2 border-teal-600 px-3 py-1 rounded-md shadow-md hover:text-teal-600 duration-700"
                 >
                   Hire Player

@@ -37,22 +37,21 @@ const Chairman = () => {
                 </h2>
                 <div class="w-12 h-1 bg-blue-500 rounded mt-2 mb-4"></div>
                 <p class="text-base">
-                  Raclette knausgaard hella meggs normcore williamsburg enamel
-                  pin sartorial venmo tbh hot chicken gentrify portland.
+                  অবসরপ্রাপ্ত ক্যপ্টেন বাংলাদেশ সেনাবাহিনী , সমাজসেবক ও
+                  রাজনীতিবিদ
                 </p>
               </div>
             </div>
             <div class="sm:w-2/3 sm:pl-8 sm:py-8 sm:border-l border-gray-200 sm:border-t-0 border-t mt-4 pt-4 sm:mt-0 text-center sm:text-left">
               <p class="leading-relaxed text-lg mb-4">
-                Meggings portland fingerstache lyft, post-ironic fixie man bun
-                banh mi umami everyday carry hexagon locavore direct trade art
-                party. Locavore small batch listicle gastropub farm-to-table
-                lumbersexual salvia messenger bag. Coloring book flannel
-                truffaut craft beer drinking vinegar sartorial, disrupt fashion
-                axe normcore meh butcher. Portland 9s scenester vexillologist
-                forage post-ironic asymmetrical, chartreuse disrupt butcher
-                paleo intelligentsia pabst before they sold out four loko. 3
-                wolf moon brooklyn.
+                খেলা একটি মৌলিক মানবিক ক্ষমতা এবং সমাজের জনপ্রিয় ক্রিয়া যা
+                প্রতিটি সমাজের জন্য গুরুত্বপূর্ণ। খেলার মাধ্যমে শারীরিক ও মানসিক
+                প্রশাসন, দৃঢ় আত্মবিশ্বাস, প্রতিস্পর্ধার মাধ্যমে জীবনের
+                সাম্প্রতিক্ষেপ সম্পন্ন করা যায়। খেলা একটি শিক্ষার উপাদান হিসেবেও
+                গুরুত্বপূর্ণ। খেলা শিক্ষার মাধ্যমে নীতি, শ্রদ্ধা, সমর্পণ, দৃড়তা
+                এবং দম্পতি জীবনে দক্ষতা অর্জন করতে সাহায্য করে। খেলা একটি জাতীয়
+                এবং আন্তর্জাতিক একতা এবং সমাজে সমষ্টি ভাবে একত্রিত করার একটি
+                উপাদান হিসেবেও গুরুত্বপূর্ণ। 
               </p>
               <a class="text-blue-500 inline-flex items-center">
                 Learn More
